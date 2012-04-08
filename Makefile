@@ -37,8 +37,7 @@ INCLS = $(CINCL_COMM) ${CINCL_WX}
 MACRO = #Nothing yet
 
 CLIB_WX = -L${WX_SOURCE_ROOT}\lib\gcc_dll -lwxmsw29ud -lwxmsw29ud_gl
-CLIB_GL = -L./lib -lopengl32 -lglu32 -lglut32
-CLIB_PUB = ${CLIB_GL} ${CLIB_WX}
+CLIB_PUB = ${CLIB_WX}
 
 LIBS =  $(CLIB_PUB) -L../lib 
 
@@ -71,7 +70,7 @@ main_rc.o : main.rc
 ${APP} : $(APP_OBJ) main_rc.o
 	@echo "Linking $@ ...... "
 	${ECHO} ${CC} -o $@ $(CFLAGS) $^ $(LIBS)
-	${CC} -o $@ $(CFLAGS) $^ $(LIBS)
+	${CC} -o $@ $(CFLAGS) $^ $(LIBS) -Wl,--subsystem,windows -mwindows
 	@echo "OK"
 
 clean :

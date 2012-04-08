@@ -264,7 +264,7 @@ vMainFrame::vMainFrame( wxWindow* parent, wxWindowID id, const wxString& title, 
 	sbSizer21 = new wxStaticBoxSizer( new wxStaticBox( configPannel, wxID_ANY, _("Chose My Style") ), wxVERTICAL );
 	
 	wxFlexGridSizer* fgSizer21;
-	fgSizer21 = new wxFlexGridSizer( 2, 0, 0, 0 );
+	fgSizer21 = new wxFlexGridSizer( 0, 3, 0, 0 );
 	fgSizer21->SetFlexibleDirection( wxBOTH );
 	fgSizer21->SetNonFlexibleGrowMode( wxFLEX_GROWMODE_SPECIFIED );
 	
@@ -328,7 +328,7 @@ vMainFrame::vMainFrame( wxWindow* parent, wxWindowID id, const wxString& title, 
 	sbSizer22 = new wxStaticBoxSizer( new wxStaticBox( configPannel, wxID_ANY, _("Chose His/Her Style") ), wxVERTICAL );
 	
 	wxFlexGridSizer* fgSizer22;
-	fgSizer22 = new wxFlexGridSizer( 2, 0, 0, 0 );
+	fgSizer22 = new wxFlexGridSizer( 0, 3, 0, 0 );
 	fgSizer22->SetFlexibleDirection( wxBOTH );
 	fgSizer22->SetNonFlexibleGrowMode( wxFLEX_GROWMODE_SPECIFIED );
 	
