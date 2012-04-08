@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LoveSocketV1.01\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-14 22:47+0800\n"
+"PO-Revision-Date: 2008-03-14 22:48+0800\n"
+"Last-Translator: Utensil\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ../../..\n"
+
+#: ../../../BasicApp.cpp:72
+#: ../../../LoveSocket.h:95
+#: ../../../vLoveSocket.h:182
+msgid "LoveSocket"
+msgstr "LoveSocket"
+
+#: ../../../LoveSocket.cpp:138
+msgid "Could not listen at the specified port !"
+msgstr "无法监听指定端口！"
+
+#: ../../../LoveSocket.cpp:138
+msgid "Socket Server Initialization Failure"
+msgstr "Socket服务端初始化失败"
+
+#: ../../../LoveSocket.cpp:235
+#: ../../../LoveSocket.cpp:461
+#: ../../../vLoveSocket.cpp:273
+msgid "My Name"
+msgstr "我的昵称"
+
+#: ../../../LoveSocket.cpp:237
+msgid "Unknown My Feeling"
+msgstr "还未书写我的心情"
+
+#: ../../../LoveSocket.cpp:241
+#: ../../../LoveSocket.cpp:467
+#: ../../../vLoveSocket.cpp:337
+msgid "His/Her Name"
+msgstr "对方昵称"
+
+#: ../../../LoveSocket.cpp:243
+msgid "Unknown His/Her Feeling"
+msgstr "未知对方心情"
+
+#: ../../../LoveSocket.cpp:443
+msgid "Write your feeling here"
+msgstr "在这里书写你的心情"
+
+#: ../../../LoveSocket.cpp:444
+msgid "Feeling..."
+msgstr "心情..."
+
+#: ../../../LoveSocket.cpp:538
+msgid "My IP is "
+msgstr "我的IP地址是 "
+
+#: ../../../LoveSocket.cpp:564
+msgid "LoveSocket Connected To "
+msgstr "LoveSocket已连接到"
+
+#: ../../../LoveSocket.cpp:574
+msgid "Can't connect to the specified host"
+msgstr "无法连接到指定主机"
+
+#: ../../../LoveSocket.cpp:574
+msgid "Connection Failure"
+msgstr "连接失败"
+
+#: ../../../LoveSocket.cpp:589
+msgid ""
+"Enter the address of the one you wanna connect:\n"
+"(The default address is your last connection)"
+msgstr ""
+"请输入你要连接的IP地址：\n"
+"（默认地址是您最后一次连接的地址）"
+
+#: ../../../LoveSocket.cpp:590
+msgid "Connect To..."
+msgstr "连接到..."
+
+#: ../../../LoveSocket.cpp:822
+msgid "Choose a filename"
+msgstr "选择一个文件"
+
+#: ../../../LoveSocket.cpp:842
+msgid ""
+"If you continue, the program will reboot to the language you selected, all information you dindn't save will be lost!\n"
+"Do you want to continue?"
+msgstr ""
+"如果您继续，程序将重新启动到你所选择的语言，所有未保存的信息都将丢失。\n"
+"你确定要继续吗？"
+
+#: ../../../LoveSocket.cpp:842
+msgid "Warning"
+msgstr "警告"
+
+#: ../../../LoveSocket.cpp:874
+msgid "Text to search for"
+msgstr "请输入您要搜索的文字"
+
+#: ../../../LoveSocket.cpp:875
+msgid "Search..."
+msgstr "搜索"
+
+#: ../../../vLoveSocket.cpp:28
+msgid "Connect"
+msgstr "连接到..."
+
+#: ../../../vLoveSocket.cpp:29
+msgid "Save Chat"
+msgstr "保存会话"
+
+#: ../../../vLoveSocket.cpp:30
+msgid "See My IP"
+msgstr "我的IP"
+
+#: ../../../vLoveSocket.cpp:35
+msgid "Unknown Name (Unknown Feeling)"
+msgstr "未知昵称(未知心情)"
+
+#: ../../../vLoveSocket.cpp:37
+msgid "Unknown Particular Feeling"
+msgstr "未知详细心情"
+
+#: ../../../vLoveSocket.cpp:62
+msgid "0/0 files Received"
+msgstr "0/0个文件已接收"
+
+#: ../../../vLoveSocket.cpp:65
+msgid "Double click to see the file list."
+msgstr "双击察看文件列表"
+
+#: ../../../vLoveSocket.cpp:72
+msgid "0 kb/s"
+msgstr ""
+
+#: ../../../vLoveSocket.cpp:99
+msgid "Send File..."
+msgstr "发送文件..."
+
+#: ../../../vLoveSocket.cpp:104
+msgid "Send Message"
+msgstr "发送信息"
+
+#: ../../../vLoveSocket.cpp:105
+msgid "Ctrl-Enter"
+msgstr "Ctrl+回车"
+
+#: ../../../vLoveSocket.cpp:129
+msgid "My Face"
+msgstr "我的头像"
+
+#: ../../../vLoveSocket.cpp:140
+msgid "QQ Faces"
+msgstr "QQ表情"
+
+#: ../../../vLoveSocket.cpp:151
+msgid "Other Faces"
+msgstr "自定义表情"
+
+#: ../../../vLoveSocket.cpp:165
+msgid "Chat"
+msgstr "聊天"
+
+#: ../../../vLoveSocket.cpp:180
+msgid "Connection Config"
+msgstr "连接设置"
+
+#: ../../../vLoveSocket.cpp:188
+msgid "Port :"
+msgstr "端口："
+
+#: ../../../vLoveSocket.cpp:195
+msgid "Reset Port"
+msgstr "重置端口"
+
+#: ../../../vLoveSocket.cpp:202
+msgid "Enable Auto Search"
+msgstr "启用自动搜索"
+
+#: ../../../vLoveSocket.cpp:211
+msgid "Host Name :"
+msgstr "主机名："
+
+#: ../../../vLoveSocket.cpp:225
+msgid "IP Range:"
+msgstr "IP范围："
+
+#: ../../../vLoveSocket.cpp:246
+msgid "English"
+msgstr "英语"
+
+#: ../../../vLoveSocket.cpp:246
+msgid "Chinese"
+msgstr "中文"
+
+#: ../../../vLoveSocket.cpp:248
+msgid "Choose Language"
+msgstr "选择语言"
+
+#: ../../../vLoveSocket.cpp:266
+msgid "Chose My Style"
+msgstr "选择我的风格"
+
+#: ../../../vLoveSocket.cpp:283
+#: ../../../vLoveSocket.cpp:347
+msgid "Name Font"
+msgstr "昵称字体"
+
+#: ../../../vLoveSocket.cpp:294
+#: ../../../vLoveSocket.cpp:358
+msgid "Text Font"
+msgstr "聊天字体"
+
+#: ../../../vLoveSocket.cpp:305
+msgid "My Face File"
+msgstr "我的头像文件"
+
+#: ../../../vLoveSocket.cpp:309
+#: ../../../vLoveSocket.cpp:373
+msgid "Select a jpg (128 * 128):"
+msgstr "选择一个128*128的JPG文件"
+
+#: ../../../vLoveSocket.cpp:315
+msgid "My Feeling"
+msgstr "我的心情"
+
+#: ../../../vLoveSocket.cpp:319
+msgid "Edit"
+msgstr "修改"
+
+#: ../../../vLoveSocket.cpp:330
+msgid "Chose His/Her Style"
+msgstr "选择对方风格"
+
+#: ../../../vLoveSocket.cpp:369
+msgid "His/Her Face File"
+msgstr "对方头像文件"
+
+#: ../../../vLoveSocket.cpp:378
+msgid "Use My Own Setting"
+msgstr "我来决定！"
+
+#: ../../../vLoveSocket.cpp:397
+msgid "Save"
+msgstr "保存"
+
+#: ../../../vLoveSocket.cpp:400
+msgid "Apply"
+msgstr "应用"
+
+#: ../../../vLoveSocket.cpp:403
+msgid "Reset All"
+msgstr "全部重置"
+
+#: ../../../vLoveSocket.cpp:406
+msgid "Cancel"
+msgstr "取消"
+
+#: ../../../vLoveSocket.cpp:414
+msgid "Config"
+msgstr "设置"
+
+#: ../../../vLoveSocket.cpp:422
+msgid "Open"
+msgstr "打开"
+
+#: ../../../vLoveSocket.cpp:427
+msgid "Search"
+msgstr "搜索"
+
+#: ../../../vLoveSocket.cpp:432
+msgid "Search By Date"
+msgstr "按日期搜索"
+
+#: ../../../vLoveSocket.cpp:452
+msgid "Chat Record"
+msgstr "聊天记录"
+
+#: ../../../vLoveSocket.cpp:463
+msgid "Help"
+msgstr "帮助"
+
+#~ msgid "Your Name"
+#~ msgstr "对方昵称"
+#~ msgid "System"
+#~ msgstr "系统"
+#~ msgid "My Name "
+#~ msgstr "我的昵称 "
+#~ msgid "His/Her Name (I am who i am.....)"
+#~ msgstr "对方昵称(对方心情未知)"
+#~ msgid "I am who i am and I love you..."
+#~ msgstr "对方详细心情未知..."
+

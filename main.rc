@@ -1,0 +1,7 @@
+aLoveSocket  ICON rc/aLoveSocketx.ico
+iConnect  ICON rc/iConnectx.ico
+iConnecting ICON rc/iConnectingx.ico
+iConnected ICON rc/iConnectedx.ico
+iSaveChat ICON rc/iSaveChatx.ico
+iSeeIP    ICON rc/iSeeIPx.ico
+#include "wx/msw/wx.rc"
